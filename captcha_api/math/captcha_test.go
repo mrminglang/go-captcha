@@ -2,7 +2,7 @@ package math_test
 
 import (
 	"fmt"
-	"go-captcha/captcha_api/math"
+	"github.com/mrminglang/go-captcha/captcha_api/math"
 	"testing"
 )
 
@@ -28,4 +28,3 @@ func TestVerify(t *testing.T) {
 		t.Errorf("Verify: want <false>, get <true>")
 	}
 }
-

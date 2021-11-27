@@ -1,4 +1,4 @@
-module go-captcha
+module github.com/mrminglang/go-captcha
 
 go 1.17
 
